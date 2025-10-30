@@ -1,0 +1,22 @@
+# Languages
+#   Create a section for each of your site's languages.
+#   Documentation: https://docs.hugoblox.com/reference/language/
+
+# Default language
+de:
+  languageCode: de
+  # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
+  # contentDir: content/de
+
+# Uncomment the lines below to configure your website in a second language.
+# en:
+#  languageCode: en
+#  contentDir: content/en
+#  title: Chinese website title...
+#  params:
+#    description: Site description in Chinese...
+#  menu:
+#    main:
+#      - name: 传
+#        url: '#about'
+#        weight: 1
