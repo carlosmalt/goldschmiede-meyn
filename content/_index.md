@@ -22,9 +22,9 @@ sections:
         Betriebsnr. 2120544148  
         UStIdNr: DE199869177  
 
+        {{< cta cta_text="Aktuelles" cta_link="/post" >}}
         {{< cta cta_text="Kontakt" cta_link="/contact" >}}
         {{< cta cta_text="Team" cta_link="/people" >}}
-        {{< cta cta_text="Aktuelles" cta_link="/post" >}}
        
 
   
