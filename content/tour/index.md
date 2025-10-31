@@ -17,7 +17,7 @@ sections:
             filters:
               brightness: 0.7
           position: right
-          color: '#666'
+          color: '#777'
       - title: 'Haben Sie das gewusst?'
         content: 'Wir sind ein Ausbildungsbetrieb und bilden neue Goldschmiede aus!'
         align: left
@@ -25,7 +25,7 @@ sections:
           image:
             filename: gewusst-ausbildung.jpeg
             filters:
-              brightness: 0.7
+              brightness: 0.5
           position: center
           color: '#555'
       - title: 'Haben Sie das gewusst?'
@@ -35,7 +35,7 @@ sections:
           image:
             filename: gewusst-berufe.jpeg
             filters:
-              brightness: 0.7
+              brightness: 0.5
           position: center
           color: '#555'
       - title: 'Haben Sie das gewusst?'
@@ -57,7 +57,7 @@ sections:
             filters:
               brightness: 0.5
           position: center
-          color: '#333'
+          color: '#555'
          #link:
         #  icon: graduation-cap
         #  icon_pack: fas

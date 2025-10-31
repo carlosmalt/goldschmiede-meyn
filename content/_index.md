@@ -10,11 +10,23 @@ sections:
       title: |
         Goldschmiede Meyn
       image:
-        filename: welcome.jpg
+        filename: team.jpeg
       text: |
-        <br>
-        
-        Die Goldschmiede Meyn ...
+        ## Herzlich Willkommen auf unserer Internetseite!
+        >Schauen Sie sich bitte auf diesen Seiten um; Fragen beantworte ich gerne persönlich.  
+
+        Peter Meyn, Goldschmiedemeister, Juwelenfasser und Uhrmacher
+
+        ### Meisterbetrieb
+        Handwerkskammer Lübeck  
+        Betriebsnr. 2120544148  
+        UStIdNr: DE199869177  
+
+        {{< cta cta_text="Aktuelles" cta_link="/post" >}}
+        {{< cta cta_text="Kontakt" cta_link="/contact" >}}
+        {{< cta cta_text="Team" cta_link="/people" >}}
+       
+
   
   - block: collection
     content:
@@ -34,46 +46,5 @@ sections:
     design:
       view: card
       columns: '1'
-  
-  - block: markdown
-    content:
-      title:
-      subtitle: ''
-      text:
-    design:
-      columns: '1'
-      background:
-        image: 
-          filename: coders.jpg
-          filters:
-            brightness: 1
-          parallax: false
-          position: center
-          size: cover
-          text_color_light: true
-      spacing:
-        padding: ['20px', '0', '20px', '0']
-      css_class: fullscreen
 
-  - block: collection
-    content:
-      title: Latest Preprints
-      text: ""
-      count: 5
-      filters:
-        folders:
-          - publication
-        publication_type: 'article'
-    design:
-      view: citation
-      columns: '1'
-
-  - block: markdown
-    content:
-      title:
-      subtitle:
-      text: |
-        {{% cta cta_link="./people/" cta_text="Meet the team →" %}}
-    design:
-      columns: '1'
 ---
