@@ -7,7 +7,7 @@ type: landing
 sections:
   - block: contact
     content:
-      title: Contact
+      title: Kontakt
       text: ''
       email: Post@GoldschmiedeMeyn.de
       phone:  '+49 4193 6136'

@@ -12,21 +12,21 @@ sections:
       image:
         filename: team.jpeg
       text: |
-        <center>
-        <b>Herzlich willkommen auf unserer Internet-Seite!</b><br/>
-        </center>
-        <br/>
-        "Schauen Sie sich bitte auf diesen Seiten um; Fragen beantworte ich gerne persönlich."<br/>
-        <small>-- Peter Meyn,<br/> 
-        Goldschmiedemeister, Juwelenfasser und Uhrmacher</small>
-        <br/>
-        <br/>
-        <b>Meisterbetrieb</b><br/>
-        Handwerkskammer Lübeck<br/>
-        Betriebsnr. 2120544148<br/>
-        UStIdNr: DE199869177<br/>
- 
-        
+        ## Herzlich Willkommen auf unserer Internetseite!
+        >Schauen Sie sich bitte auf diesen Seiten um; Fragen beantworte ich gerne persönlich.  
+
+        Peter Meyn, Goldschmiedemeister, Juwelenfasser und Uhrmacher
+
+        ### Meisterbetrieb
+        Handwerkskammer Lübeck  
+        Betriebsnr. 2120544148  
+        UStIdNr: DE199869177  
+
+        {{< cta cta_text="Kontakt" cta_link="/contact" >}}
+        {{< cta cta_text="Team" cta_link="/people" >}}
+        {{< cta cta_text="Aktuelles" cta_link="/post" >}}
+       
+
   
   - block: collection
     content:
@@ -46,33 +46,5 @@ sections:
     design:
       view: card
       columns: '1'
-  
-  - block: markdown
-    content:
-      title:
-      subtitle: ''
-      text:
-    design:
-      columns: '1'
-      background:
-        image: 
-          filename: coders.jpg
-          filters:
-            brightness: 1
-          parallax: false
-          position: center
-          size: cover
-          text_color_light: true
-      spacing:
-        padding: ['20px', '0', '20px', '0']
-      css_class: fullscreen
 
-  - block: markdown
-    content:
-      title:
-      subtitle:
-      text: |
-        {{% cta cta_link="./people/" cta_text="Meet the team →" %}}
-    design:
-      columns: '1'
 ---
