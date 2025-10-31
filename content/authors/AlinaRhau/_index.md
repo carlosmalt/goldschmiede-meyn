@@ -7,7 +7,7 @@ first_name: Alina
 last_name: Rhau
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position
 role: Goldschmied
@@ -20,7 +20,7 @@ organizations:
     url: https://www.goldschmiede-hamburg.de/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Ausbildung ...
+bio: 
 
 interests:
   - Unikatschmuck in Gold und Platin

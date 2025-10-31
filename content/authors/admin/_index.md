@@ -20,7 +20,7 @@ organizations:
     url: https://www.goldschmiede-hamburg.de/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Ausbildung ...
+bio: 
 
 interests:
   - Unikatschmuck in Gold und Platin

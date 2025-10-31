@@ -11,6 +11,11 @@ sections:
       text: ''
       email: Post@GoldschmiedeMeyn.de
       phone:  '+49 4193 6136'
+      contact_links:
+        - icon: fax
+          icon_pack: fas
+          name: +49 4193 8825190
+          link: 'fax:+49 4193 8825190'
       address:
         street: Bahnhofstr. 16
         city: Alveslohe
@@ -25,12 +30,7 @@ sections:
       office_hours:
         - 'Dienstag bis Freitag 14:00-18:00'
         - '**Montag und Samstag Geschlossen**'
-      appointment_url: 'https://calendly.com'
-      #contact_links:
-      #  - icon: comments
-      #    icon_pack: fas
-      #    name: Discuss on Forum
-      #    link: 'https://discourse.gohugo.io'
+      appointment_url: ''
     
       # Automatically link email and phone or display as text?
       autolink: true
