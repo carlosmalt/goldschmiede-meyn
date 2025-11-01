@@ -11,3 +11,6 @@ assets/jsconfig.json
 
 # Mac
 .DS_Store
+
+# Backup
+/old-site-backup/
