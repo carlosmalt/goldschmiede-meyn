@@ -44,6 +44,7 @@ header:
 # Site footer
 
 footer:
+  text: '[Haftungshinweis](/haftung) | [Datenschutzerklärung](/datenschutz)'
   copyright:
     notice: '© {year} Peter Meyn. This work is licensed under {license}'
     license:
