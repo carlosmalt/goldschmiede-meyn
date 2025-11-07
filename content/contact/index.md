@@ -28,7 +28,7 @@ sections:
         longitude: '9.914835'
       directions: ''
       office_hours:
-        - 'Dienstag bis Freitag 14:00-18:00'
+        - 'Dienstag bis Freitag 8:00-12:00 und 14:00-18:00'
         - '**Montag und Samstag Geschlossen**'
       appointment_url: ''
     
