@@ -16,6 +16,10 @@ sections:
           icon_pack: fas
           name: +49 4193 8825190
           link: 'fax:+49 4193 8825190'
+        - icon: facebook
+          icon_pack: fab
+          name: 'Goldschmiede Meyn | Alveslohe'
+          link: https://www.facebook.com/people/Goldschmiede-Meyn/100057530766256/
       address:
         street: Bahnhofstr. 16
         city: Alveslohe
