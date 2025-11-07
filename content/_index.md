@@ -15,7 +15,7 @@ sections:
         ## Herzlich Willkommen auf unserer Internetseite!
         >Schauen Sie sich bitte auf diesen Seiten um; Fragen beantworte ich gerne persönlich.  
 
-        Peter Meyn, Goldschmiedemeister, Juwelenfasser und Uhrmacher
+        {{% mention admin %}}, Goldschmiedemeister, Juwelenfasser und Uhrmacher
 
         ### Meisterbetrieb
         Handwerkskammer Lübeck  

@@ -12,7 +12,7 @@ Für alle, die mit dem Begriff Freisprechung nicht vertraut sind: Diese uralte H
 
 Auch wenn sich die Bedingungen für Auszubildende seither deutlich verbessert haben, pflegen die Innungen aus Hamburg und Schleswig-Holstein diese bedeutende Tradition weiterhin. Und das zu Recht – schließlich markiert sie einen wichtigen Meilenstein nach 3,5 Jahren harter Arbeit, Engagement und Lernbereitschaft. Ein feierlicher Abschluss ist mehr als verdient.  
 
-Traditionell wird die Veranstaltung von den Auszubildenden selbst organisiert. In diesem Jahr fiel die Wahl auf ein stilvolles Hotel in Neumünster, dessen Festsaal der Zeremonie einen würdigen Rahmen bot. Jeder und jede der frisch gebackenen Gesell*innen erhielt aus den Händen des Vorsitzenden der Prüfungskommission, Peter Meyn, den Gesellenbrief überreicht.  
+Traditionell wird die Veranstaltung von den Auszubildenden selbst organisiert. In diesem Jahr fiel die Wahl auf ein stilvolles Hotel in Neumünster, dessen Festsaal der Zeremonie einen würdigen Rahmen bot. Jeder und jede der frisch gebackenen Gesell*innen erhielt aus den Händen des Vorsitzenden der Prüfungskommission, {{% mention admin %}}, den Gesellenbrief überreicht.  
 
 Der Obermeister der Schleswig-Holsteinischen Innung, Uwe Friess, hielt eine feierliche Ansprache. Auch die Hamburger Obermeisterin Viola Bergmann sowie ihre Stellvertreterin Judith Lotter waren vor Ort und überreichten den Absolvent*innen die traditionelle rote Rose – ein weiterer symbolträchtiger Moment.  
 
