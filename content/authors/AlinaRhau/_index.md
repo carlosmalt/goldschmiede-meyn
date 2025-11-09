@@ -67,6 +67,6 @@ user_groups:
 
 Alina Rhau ist Goldschmiedin. Hier ist ihr Gesellenstück, mit dem sie [Landessiegerin (2. Platz)](/post/20231102-landesbeste) wurde.
 
-![Rhau Gesellenstueck](IMG_6848.JPG)
+![Rhau Gesellenstueck](RhauGesellenstueck.jpg)
 
 {{< video src="IMG_6848.mov" controls="yes" >}}
