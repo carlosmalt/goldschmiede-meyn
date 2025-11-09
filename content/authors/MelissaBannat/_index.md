@@ -10,7 +10,7 @@ last_name: Bannat
 superuser: false
 
 # Role/position
-role: Goldschmied
+role: Goldschmiedin
 
 # Organizations/Affiliations
 organizations:
@@ -46,6 +46,9 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'mailto:Post@GoldschmiedeMeyn.de'
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/melissa-bannat-113388174/
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -65,4 +68,6 @@ user_groups:
   - Gesellen
 ---
 
-Melissa Bannat ist Goldschmied.
+Melissa Bannat ist Goldschmiedin. Hier ist ihr Gesellenstück, mit dem sie [Landessiegerin (1. Platz)](/post/20231102-landesbeste) wurde. 
+
+![Melissa Bannat Gesellenstueck](BannatGesellenstueck.jpg)
