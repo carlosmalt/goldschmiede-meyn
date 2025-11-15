@@ -10,7 +10,7 @@ last_name: Rhau
 superuser: false
 
 # Role/position
-role: Goldschmied
+role: Goldschmiedin
 
 # Organizations/Affiliations
 organizations:
