@@ -34,6 +34,7 @@ sections:
       office_hours:
         - 'Dienstag bis Freitag 8:00-12:00 und 14:00-18:00'
         - '**Montag und Samstag Geschlossen**'
+        - '**Urlaub vom 23.12.2025 bis 1.6.2026**'
       appointment_url: ''
     
       # Automatically link email and phone or display as text?
