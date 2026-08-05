@@ -53,6 +53,7 @@ slides:
 #   Otherwise, set `projects = []`.
 projects:
 ---
+![Einladung zur Opal Austellung](einladung.png)
 ![Opals](opal-2.png)
 ![Opals](opal-3.png)  
 {{< video src="opal.mp4" >}}  
