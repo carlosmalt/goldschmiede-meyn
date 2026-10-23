@@ -15,7 +15,7 @@ könn(t)en; in Deutschland zählt sogar die täglich wechselnde IP-Adresse dazu.
 
 ## Datenerfassung auf unserer Website
 
-Die Datenverarbeitung auf dieser Website erfolgt durch den Website-Hoster. Dessen Kontaktdaten können Sie dem Impressum der Website https://www.hosteurope.de entnehmen.
+Die Datenverarbeitung auf dieser Website erfolgt durch den Website-Hoster. Dessen Kontaktdaten können Sie dem Impressum der Website https://www.webhostone.de entnehmen.
 
 Ihre Daten werden zum einen dadurch erhoben, dass Sie uns diese mitteilen. Hierbei kann es sich z.B. um Daten handeln, die Sie in ein Formular eingeben, die Sie uns mündlich mitteilen oder die Bestandteil eines an uns gerichteten Briefes oder einer eMail sind.
 Andere Daten werden automatisch beim Besuch der Website durch den Webserver erfasst. Das sind technische Daten (z.B. Name des Browsers, Betriebssystem oder Uhrzeit des Seitenaufrufs). Die Erfassung dieser Daten erfolgt automatisch, sobald Sie unsere Website betreten.  
@@ -79,12 +79,3 @@ Der Provider der Seiten erhebt und speichert automatisch Informationen in so gen
 Eine Zusammenführung dieser Daten mit anderen Datenquellen wird nicht vorgenommen.  
 Grundlage für die Datenverarbeitung ist Art. 6 Abs. 1 Buchstabe b DSGVO, der die Verarbeitung von Daten zur Erfüllung eines Vertrags oder vorvertraglicher Maßnahmen gestattet.
 
-### Plugins und Tools
-
-Diese Website nutzt das Tool WEBALIZER 2 zur seltenen weiteren Datenanalyse.
-
- ## Online-Streitbeilegung, Verbraucherstreitbeilegungsgesetz
-
-Die EU-Kommission bietet die Möglichkeit zur Online-Streitbeilegung auf einer von ihr betriebenen Online-Plattform. Diese Plattform ist unter http://ec.europa.eu/consumers/odr zu erreichen.  
-  
-Gemäß § 36 Abs. 1 Nr. 1 des Verbraucherstreitbeilegungsgesetzes wird hiermit darauf hingewiesen, dass Peter Meyn nicht an einem Streitbeilegungsverfahren vor einer Verbraucherschlichtungsstelle im Sinne dieses Gesetzes teilnimmt und für etwaige Streitigkeiten aus dem Vertragsverhältnis mit dem Verbraucher ausschließlich die Gerichte der ordentlichen Gerichtsbarkeit zuständig sind.
